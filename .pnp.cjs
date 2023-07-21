@@ -314,7 +314,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@astrojs-rss-npm-2.4.3-5d62f3b9e4-b5a0137357.zip/node_modules/@astrojs/rss/",\
           "packageDependencies": [\
             ["@astrojs/rss", "npm:2.4.3"],\
-            ["fast-xml-parser", "npm:4.1.3"],\
+            ["fast-xml-parser", "npm:4.2.6"],\
             ["kleur", "npm:4.1.5"]\
           ],\
           "linkType": "HARD"\
@@ -5185,10 +5185,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["fast-xml-parser", [\
-        ["npm:4.1.3", {\
-          "packageLocation": "./.yarn/cache/fast-xml-parser-npm-4.1.3-1eb166fb1b-6123d374ee.zip/node_modules/fast-xml-parser/",\
+        ["npm:4.2.6", {\
+          "packageLocation": "./.yarn/cache/fast-xml-parser-npm-4.2.6-507b2f39db-1628e4b2c5.zip/node_modules/fast-xml-parser/",\
           "packageDependencies": [\
-            ["fast-xml-parser", "npm:4.1.3"],\
+            ["fast-xml-parser", "npm:4.2.6"],\
             ["strnum", "npm:1.0.5"]\
           ],\
           "linkType": "HARD"\
